@@ -31,7 +31,6 @@ class CrawlWgGesucht:
             page_no += 1
             self.__log__.debug('Checking page %i' % page_no)
             soup = self.get_page(search_url, page_no)
-            print(soup)
             entries.extend(self.extract_data(soup))
             self.__log__.debug('Number of found entries: ' + str(len(entries)))
 
