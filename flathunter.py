@@ -88,3 +88,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+def test():
+                    self.__log__.error("When sending bot message, we got status %i with message: %s" % (sc, data))
