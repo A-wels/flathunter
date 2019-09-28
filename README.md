@@ -53,5 +53,6 @@ To use the distance calculation feature a [Google API-Key](https://developers.go
 - [@NodyHub](https://github.com/NodyHub)
 - Bene
 - [@Cugu](https://github.com/Cugu)
+- [@Zaunei](https://github.com/Zaunei) - Ebay kleinanzeigen fix
 
 
